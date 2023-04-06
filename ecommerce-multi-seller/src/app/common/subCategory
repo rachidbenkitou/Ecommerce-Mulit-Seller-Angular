@@ -1,0 +1,5 @@
+export class subCategory{
+    constructor(public subCategoryId:number,public subCategoryName:String){
+        
+    }
+}
